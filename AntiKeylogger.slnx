@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AntiKeylogger/AntiKeylogger.vcxproj" Id="74c883d8-f06d-4ba1-8de2-844a3ce1a38a" />
+</Solution>
